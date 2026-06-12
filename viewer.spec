@@ -10,7 +10,7 @@
 #
 # Build:
 #   conda activate viewer-build
-#   cd "C:\Users\zbynek.stebnicky\Documents\Projekty\ModelViewer"
+#   cd path\to\3D-Model-Viewer
 #   rmdir /s /q build dist
 #   pyinstaller viewer.spec
 #
